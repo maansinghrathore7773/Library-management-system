@@ -1,0 +1,17 @@
+1.Add Book  2.Issue Book  3.Return Book  4.Search  5.Exit
+1
+ID Title Author: 101 CppProgramming Bjarne
+
+1.Add Book  2.Issue Book  3.Return Book  4.Search  5.Exit
+1
+ID Title Author: 102 JavaProgramming James
+
+1.Add Book  2.Issue Book  3.Return Book  4.Search  5.Exit
+4
+Enter Title: CppProgramming
+101 CppProgramming Bjarne
+
+1.Add Book  2.Issue Book  3.Return Book  4.Search  5.Exit
+5
+after final output:
+101 CppProgramming Bjarne
